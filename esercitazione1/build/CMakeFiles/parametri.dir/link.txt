@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/parametri.dir/link.d CMakeFiles/parametri.dir/letturaparametri.cpp.o -o parametri

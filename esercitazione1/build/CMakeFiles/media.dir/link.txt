@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/media.dir/link.d CMakeFiles/media.dir/media.cpp.o -o media

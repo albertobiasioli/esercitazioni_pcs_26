@@ -1,4 +1,0 @@
-/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione1/build/CMakeFiles/parametri.dir
-/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione1/build/CMakeFiles/media.dir
-/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione1/build/CMakeFiles/edit_cache.dir
-/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione1/build/CMakeFiles/rebuild_cache.dir
